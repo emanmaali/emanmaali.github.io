@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Education Journey
+title: Education
 description: Throughout my education, I have gained extensive knowledge and hands-on experience in computing, machine learning, IoT, and related fields. Below is a summary of my academic background and key achievements.
 permalink: /education/
 nav: true
