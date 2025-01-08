@@ -88,17 +88,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/04/15/pseudocode.html";
         
       },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/01/27/code-diff.html";
-        
-      },
     },{id: "post-a-post-with-vega-lite",
       
         title: "a post with vega lite",
