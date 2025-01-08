@@ -341,28 +341,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/07/15/code.html";
         
       },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2015/05/15/images.html";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
-        
-      },
     },{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
