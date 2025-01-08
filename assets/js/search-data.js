@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
-      
-        title: "a post with image galleries",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/12/04/photo-gallery.html";
-        
-      },
-    },{id: "post-a-post-with-tabs",
+        },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
       
