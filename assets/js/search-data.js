@@ -154,17 +154,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/01/26/chartjs.html";
         
       },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2023/12/12/tikzjax.html";
-        
-      },
     },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
           title: 'I will spend three months with Prof. Thomas Ristenpart’s group as a research...',
           description: "",
