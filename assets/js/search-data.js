@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-tabs",
+        },{id: "post-a-post-with-image-galleries",
+      
+        title: "a post with image galleries",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/12/04/photo-gallery.html";
+        
+      },
+    },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
       
@@ -306,6 +317,61 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
+        
+      },
+    },{id: "post-a-post-with-disqus-comments",
+      
+        title: "a post with disqus comments",
+      
+      description: "an example of a blog post with disqus comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/external-services/2015/10/20/disqus-comments.html";
+        
+      },
+    },{id: "post-a-post-with-math",
+      
+        title: "a post with math",
+      
+      description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/10/20/math.html";
+        
+      },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/07/15/code.html";
+        
+      },
+    },{id: "post-a-post-with-images",
+      
+        title: "a post with images",
+      
+      description: "this is what included images could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/05/15/images.html";
+        
+      },
+    },{id: "post-a-post-with-formatting-and-links",
+      
+        title: "a post with formatting and links",
+      
+      description: "march &amp; april, looking forward to summer",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
     },{id: "news-announcement-2",
