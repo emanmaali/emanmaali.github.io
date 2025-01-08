@@ -308,17 +308,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
         
       },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2015/10/20/math.html";
-        
-      },
     },{id: "news-announcement-2",
           title: 'Announcement_2',
           description: "",
