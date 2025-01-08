@@ -1,65 +1,54 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: My Education Journey
+description: Throughout my education, I have gained extensive knowledge and hands-on experience in computing, machine learning, IoT, and related fields. Below is a summary of my academic background and key achievements.
+permalink: /education/
 nav: true
-nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<hr style="border: 1px solid grey; margin-bottom: 20px;">
 
-{% else %}
+<section>
+  <h3>PhD in Computing</h3>
+  <p><strong>Imperial College London</strong>, London, UK (2020–2024)</p>
+  <ul>
+    <li><strong>Thesis:</strong> Anomaly detection for IoT environments</li>
+    <li><strong>Research Focus:</strong> Anomaly detection, IoT security, and applied machine learning</li>
+    <li><strong>Key Achievements:</strong> Published in NDSS and SenSys</li>
+  </ul>
+</section>
 
-<!-- Display projects without categories -->
+<section>
+  <h3>MSc in Electromagnetic Sensor Networks</h3>
+  <p><strong>University of Birmingham</strong>, Birmingham, UK (2016–2017)</p>
+  <ul>
+    <li><strong>Thesis:</strong> Optimising metasurface coupler</li>
+    <li><strong>Graduation:</strong> Graduated with Merit</li>
+  </ul>
+</section>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<section>
+  <h3>BSc in Computer Systems Engineering</h3>
+  <p><strong>Birzeit University</strong>, Birzeit, Palestine (2008–2013)</p>
+  <ul>
+    <li><strong>Graduation Project:</strong> Answering natural language questions over structured knowledge bases</li>
+  </ul>
+</section>
 
-  <!-- Generate cards for each project -->
+<hr style="border: 1px solid grey; margin-top: 30px; margin-bottom: 20px;">
 
-{% if page.horizontal %}
+<h3>Technical and Software Skills</h3>
+<p>Throughout my education, I have developed the following technical and software skills:</p>
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+<section class="skills">
+  <ul>
+    <li><strong>Programming Languages:</strong> Python (Pandas, NumPy, Scikit‑learn, etc), Java, C</li>
+    <li><strong>Embedded Systems Programming:</strong> Arduino, Raspberry Pi, ESP32/ESP8266</li>
+    <li><strong>Machine Learning Frameworks:</strong> AutoML, TensorFlow, Keras, PyTorch</li>
+    <li><strong>Miscellaneous:</strong> Linux, Shell (Bash), LaTeX (Overleaf), Microsoft Office, Git, Docker</li>
+    <li><strong>Network Traffic Analyzers:</strong> Wireshark, tcpdump, tshark, Cisco Joy, YAF (Yet Another Flowmeter)</li>
+    <li><strong>Penetration Testing and Ethical Hacking:</strong> Kali Linux, Nmap</li>
+  </ul>
+</section>
