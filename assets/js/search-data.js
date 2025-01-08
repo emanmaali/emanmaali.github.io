@@ -88,6 +88,28 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/04/15/pseudocode.html";
         
       },
+    },{id: "post-a-post-with-code-diff",
+      
+        title: "a post with code diff",
+      
+      description: "this is how you can display code diffs",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/01/27/code-diff.html";
+        
+      },
+    },{id: "post-a-post-with-advanced-image-components",
+      
+        title: "a post with advanced image components",
+      
+      description: "this is what advanced image components could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/01/27/advanced-images.html";
+        
+      },
     },{id: "post-a-post-with-vega-lite",
       
         title: "a post with vega lite",
@@ -97,6 +119,28 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/2024/01/27/vega-lite.html";
+        
+      },
+    },{id: "post-a-post-with-geojson",
+      
+        title: "a post with geojson",
+      
+      description: "this is what included geojson code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/01/26/geojson-map.html";
+        
+      },
+    },{id: "post-a-post-with-echarts",
+      
+        title: "a post with echarts",
+      
+      description: "this is what included echarts code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/01/26/echarts.html";
         
       },
     },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
