@@ -381,8 +381,8 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-awarded-placement-at-cornell-tech",
-          title: 'Awarded Placement at Cornell Tech',
+    },{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
