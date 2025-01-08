@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-21 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Excited to share that our paper 'Evaluating IoT Device Identification Machine Learning Models for Network Deployment' was accepted at NDSS 2025!
