@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/education/";
           },
+        },{id: "nav-teaching-experience",
+          title: "Teaching Experience",
+          description: "Throughout my academic and professional career, I have been fortunate to contribute to teaching and mentoring students in various computing and engineering courses. Below is a summary of my teaching roles and responsibilities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "dropdown-publications",
               title: "publications",
