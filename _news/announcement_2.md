@@ -5,4 +5,4 @@ inline: false
 related_posts: false
 ---
 
-I will be spending three months on a research placement with Prof. Thomas Ristenpart's group. Excited for this opportunity!
+I will spend three months on a research placement with Prof. Thomas Ristenpart's group. I'm excited for this opportunity!
