@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Experience
+title: Teaching
 description: Throughout my academic and professional career, I have been fortunate to contribute to teaching and mentoring students in various computing and engineering courses. Below is a summary of my teaching roles and responsibilities.
 nav: true
 ---
