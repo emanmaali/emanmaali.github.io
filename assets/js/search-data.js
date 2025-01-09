@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-tabs",
+        },{id: "post-distill",
       
-        title: "a post with tabs",
+        title: "Distill",
       
-      description: "this is what included tabs in a post could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/sample-posts/2024/05/01/tabs.html";
+          window.location.href = "/2018/12/22/distill.html";
         
       },
     },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
