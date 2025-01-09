@@ -53,11 +53,11 @@
   type: nested_list
   contents:
     - title: Python (Pandas, NumPy, Scikit‑learn, etc), Java, C.
-   - title: Arduino, Raspberry Pi, and ESP32/ESP8266.
-   - title: AutoML, TensorFlow, Keras, PyTorch
-   - title: Linux, Shell (Bash), \LaTeX (Overleaf), Microsoft Office, Git, Docker.
-   - title: Wireshark, tcpdump, tshark, Cisco joy, YAF (Yet Another Flowmeter).
-   - title: Kali Linux, Nmap.
+    - title: Arduino, Raspberry Pi, and ESP32/ESP8266.
+    - title: AutoML, TensorFlow, Keras, PyTorch
+    - title: Linux, Shell (Bash), \LaTeX (Overleaf), Microsoft Office, Git, Docker.
+    - title: Wireshark, tcpdump, tshark, Cisco joy, YAF (Yet Another Flowmeter).
+    - title: Kali Linux, Nmap.
     
 - title: Research Interests
   type: nested_list
