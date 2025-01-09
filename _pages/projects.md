@@ -39,16 +39,3 @@ horizontal: false
 
 <hr style="border: 1px solid grey; margin-top: 30px; margin-bottom: 20px;">
 
-<h3>Technical and Software Skills</h3>
-<p>Throughout my education, I have developed the following technical and software skills:</p>
-
-<section class="skills">
-  <ul>
-    <li><strong>Programming Languages:</strong> Python (Pandas, NumPy, Scikit‑learn, etc), Java, C</li>
-    <li><strong>Embedded Systems Programming:</strong> Arduino, Raspberry Pi, ESP32/ESP8266</li>
-    <li><strong>Machine Learning Frameworks:</strong> AutoML, TensorFlow, Keras, PyTorch</li>
-    <li><strong>Miscellaneous:</strong> Linux, Shell (Bash), LaTeX (Overleaf), Microsoft Office, Git, Docker</li>
-    <li><strong>Network Traffic Analyzers:</strong> Wireshark, tcpdump, tshark, Cisco Joy, YAF (Yet Another Flowmeter)</li>
-    <li><strong>Penetration Testing and Ethical Hacking:</strong> Kali Linux, Nmap</li>
-  </ul>
-</section>
