@@ -16,4 +16,4 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-My Blogs
+This page is currently under construction and will be available soon—stay tuned!
