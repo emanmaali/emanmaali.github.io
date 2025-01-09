@@ -77,17 +77,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/04/28/post-citation.html";
         
       },
-    },{id: "post-a-post-with-pseudo-code",
-      
-        title: "a post with pseudo code",
-      
-      description: "this is what included pseudo code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/04/15/pseudocode.html";
-        
-      },
     },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
           title: 'I will spend three months with Prof. Thomas Ristenpart’s group as a research...',
           description: "",
