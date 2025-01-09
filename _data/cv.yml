@@ -2,96 +2,61 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Eman Maali
     - name: Languages
-      value: English, German
+      value: Arabic, English, Spanish (beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Computing
+      institution: Imperial College London, London, United Kingdom
+      year: 2024
+    - title: MSc in Electromagnetic Sensor Networks
+      institution: University of Birmingham, Birmingham, United Kingdom
+      year: 2017
+    - title: BA in Computer System Engineering
+      institution: Birzeit University, Birzeit, Palestine
+      year: 2013
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Graduate Teaching Assistant
+      institution: Department of Computing, Imperial College London
+      year: 2022 - 
+    - title: Lecturer
+      institution: Electrical and Computer Engineering Department, Birzeit University, Palestine
+      year: 2017-2019
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Testing & Quality Assurance Engineer
+      institution: Jawwal-Palestine Cellular Communications, Ramallah, Palestine
+      year: 2017
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Imperial Global Fellows Fund International Placements for PhD students
+        - Cornell Tech, Grant Amount £2,469.74
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Schlumberger Foundation; Faculty for the Future PhD Fellowship
+        - Imperial College London, Grant Amount $250K. 
+    - year: 2016
+      items:
+        - Hani Qaddumi Scholarship Foundation (HQSF) for Master's Studies
+        - University of Birmingham, Grant Amount £30K
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: IoT Security
+    - title: Network Traffic Analysis
+    - title: Applied Machine Learning 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, Karate, food.
