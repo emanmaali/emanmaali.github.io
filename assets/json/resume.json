@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Eman Maali",
-    "label": "",
+    "label": "Researcher",
     "image": "",
     "email": "e.maali19@imperial.ac.uk",
     "phone": "",
@@ -85,7 +85,7 @@
   ],
   "awards": [
     {
-      "title": "Imperial Global Fellows Fund International Placements for PhD students",
+      "title": "Imperial Global Fellows Fund",
       "date": "2023",
       "awarder": "Imperial College London",
       "url": "",
