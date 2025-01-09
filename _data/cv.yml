@@ -50,19 +50,19 @@
         - University of Birmingham, Grant Amount £30K.
 
 - title: Skills
-  type: map
+  type: nested_list
   contents:
-    - name: Programming Languages
+    - title: Programming Languages
       value: Python (Pandas, NumPy, Scikit‑learn, etc), Java, C.
-   - name: Embedded Systems Programming
+   - title: Embedded Systems Programming
      value: Arduino, Raspberry Pi, and ESP32/ESP8266.
-   - name: Machine Learning Framework
+   - title: Machine Learning Framework
      value: AutoML, TensorFlow, Keras, PyTorch
-   - name: Miscellaneous
+   - title: Miscellaneous
      value: Linux, Shell (Bash), \LaTeX (Overleaf), Microsoft Office, Git, Docker.
-   - name: Network Traffic Analyser
+   - title: Network Traffic Analyser
      value: Wireshark, tcpdump, tshark, Cisco joy, YAF (Yet Another Flowmeter).
-   - name: Penetration Testing and Ethical Hacking
+   - title: Penetration Testing and Ethical Hacking
      value: Kali Linux, Nmap.
     
 - title: Research Interests
