@@ -12,7 +12,7 @@ nav: true
   <h3>Graduate Teaching Assistant, Department of Computing</h3>
   <p><strong>Imperial College London</strong>, London, UK (Sep 2022 – Present)</p>
   <ul>
-    <li><strong>Courses:</strong> Network and Web Security, Advanced Computer Security, Networks and Communications,   Advanced Software Engineering</li>
+    <li><strong>Courses:</strong> Network and Web Security, Advanced Computer Security, Networks and Communications,   Advanced Software Engineering.</li>
     <li><strong>Responsibilities:</strong>
       <ul>
         <li>Demonstrated practical sessions in network and web security and advanced software engineering laboratories.</li>
@@ -26,7 +26,7 @@ nav: true
   <h3>Lecturer, Electrical and Computer Engineering Department</h3>
   <p><strong>Birzeit University</strong>, Birzeit, Palestine (Sep 2017 – Dec 2019)</p>
   <ul>
-    <li><strong>Courses:</strong> Statistical and Probability, Advance Computer Networks, Linux Laboratory, Microprocessors Laboratory, Programming with C</li>
+    <li><strong>Courses:</strong> Statistical and Probability, Advance Computer Networks, Linux Laboratory, Microprocessors Laboratory, Programming with C.</li>
     <li><strong>Responsibilities:</strong>
       <ul>
         <li>Identified syllabi that clearly outline the course requirements, rationale, goals, and objectives.</li>
@@ -36,3 +36,5 @@ nav: true
     </li>
   </ul>
 </section>
+
+<hr style="border: 1px solid grey; margin-bottom: 20px;">
