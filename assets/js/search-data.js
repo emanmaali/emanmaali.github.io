@@ -55,17 +55,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/05/01/tabs.html";
         
       },
-    },{id: "post-a-post-with-typograms",
-      
-        title: "a post with typograms",
-      
-      description: "this is what included typograms code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/04/29/typograms.html";
-        
-      },
     },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
           title: 'I will spend three months with Prof. Thomas Ristenpart’s group as a research...',
           description: "",
