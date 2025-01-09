@@ -39,7 +39,7 @@
     - year: 2023
       items:
         - Imperial Global Fellows Fund International Placements for PhD students
-        - Cornell Tech, Grant Amount £2,469.74
+        - Cornell Tech, Grant Amount £2,469.74.
     - year: 2019
       items:
         - Schlumberger Foundation; Faculty for the Future PhD Fellowship
@@ -47,8 +47,24 @@
     - year: 2016
       items:
         - Hani Qaddumi Scholarship Foundation (HQSF) for Master's Studies
-        - University of Birmingham, Grant Amount £30K
+        - University of Birmingham, Grant Amount £30K.
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      Descrption: Python (Pandas, NumPy, Scikit‑learn, etc), Java, C.
+    - title: Embedded Systems Programming
+      Descrption: Arduino, Raspberry Pi, and ESP32/ESP8266.
+    - title: Machine Learning Framework
+      Descrption: AutoML, TensorFlow, Keras, PyTorch
+    - title: Miscellaneous
+      Descrption: Linux, Shell (Bash), \LaTeX (Overleaf), Microsoft Office, Git, Docker.
+    - title: Network Traffic Analyser
+      Descrption: Wireshark, tcpdump, tshark, Cisco joy, YAF (Yet Another Flowmeter).
+    - title: Penetration Testing and Ethical Hacking
+      Descrption: Kali Linux, Nmap.
+    
 - title: Research Interests
   type: nested_list
   contents:
