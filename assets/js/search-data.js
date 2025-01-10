@@ -48,7 +48,7 @@ ninja.data = [{
           window.location.href = "/2018/12/22/distill.html";
         
       },
-    },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-i-m-excited-for-this-opportunity",
+    },{id: "news-i-will-spend-three-months-with-prof-thomas-ristenpart-s-group-as-a-research-summer-placement-the-placement-will-take-place-at-cornell-tech-in-nyc-i-m-excited-for-this-opportunity",
           title: 'I will spend three months with Prof. Thomas Ristenpart’s group as a research...',
           description: "",
           section: "News",},{id: "news-i-am-excited-to-share-that-our-paper-evaluating-iot-device-identification-machine-learning-models-for-network-deployment-was-accepted-at-ndss-2025",
