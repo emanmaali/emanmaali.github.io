@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-education",
           title: "Education",
-          description: "Throughout my education, I have gained extensive knowledge and hands-on experience in computing, machine learning, IoT, and related fields. Below is a summary of my academic background and key achievements.",
+          description: "Throughout my education, I have gained extensive knowledge and hands-on experience in security, IoT, and applied machine learning. Below is a summary of my academic background and key achievements.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/education/";
