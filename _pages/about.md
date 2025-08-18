@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate @AESE Lab.
+subtitle: Researcher @CPG Lab.
 
 profile:
   align: right
