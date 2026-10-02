@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow, Imperial College London. Robustness of ML systems. Adversarial evaluation. Agentic AI.
+subtitle: Research Fellow, Imperial College London.
 
 profile:
   align: right
