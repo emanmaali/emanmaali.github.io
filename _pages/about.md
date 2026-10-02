@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher @CPG Lab.
+subtitle: Research Fellow, Imperial College London. Robustness of ML systems. Adversarial evaluation. Agentic AI.
 
 profile:
   align: right
