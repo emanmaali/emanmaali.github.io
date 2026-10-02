@@ -4,9 +4,9 @@
 
 title: Eman Maali # the website title (if blank, full name will be used instead)
 first_name: Eman
-middle_name: 
+middle_name:
 last_name: Maali
-contact_note: 
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
 url: https://emanmaali.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -67,7 +67,7 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: emanmaali # your GitHub user name
-twitter_username: maali_eman# your Twitter handle
+twitter_username: maali_eman # your Twitter handle
 scholar_userid: NMdjJ_wAAAAJ&hl=en # your Google Scholar ID
 orcid_id: 0000-0002-8058-3335 # your ORCID ID
 
@@ -107,16 +107,16 @@ orcid_id: 0000-0002-8058-3335 # your ORCID ID
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 #giscus:
 #  repo: # <your-github-user-name>/<your-github-repo-name>
- # repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
- # category: Comments # name of the category under which discussions will be created
- # category_id: # leave empty or specify your category_id (see https://giscus.app/)
- # mapping: title # identify discussions by post title
+# repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+# category: Comments # name of the category under which discussions will be created
+# category_id: # leave empty or specify your category_id (see https://giscus.app/)
+# mapping: title # identify discussions by post title
 #  strict: 1 # use strict identification mode
 #  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
- # input_position: bottom # whether to display input form below (bottom) or above (top) the comments
- # theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
- # emit_metadata: 0
- # lang: en
+# input_position: bottom # whether to display input form below (bottom) or above (top) the comments
+# theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+# emit_metadata: 0
+# lang: en
 
 # Disqus comments (DEPRECATED)
 #disqus_shortname: al-folio # put your disqus shortname
