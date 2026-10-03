@@ -12,7 +12,7 @@ nav_order: 1
 
 <section>
   <h3>Adversarial Robustness of Multi-Agent AI Pipelines</h3>
-  <p><em>Current work · Computational Privacy Group, Imperial College London (2025–present)</em></p>
+  <p><em>Current work , Imperial College London (2025–present)</em></p>
   <p>
     Multi-agent LLM systems chain several models, tools, and agents together. A pipeline can be compromised as a whole even when every individual component appears robust. I study how optimization-based attacks are used to evaluate the safety of these systems, and where current evaluations fall short.
   </p>
