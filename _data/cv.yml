@@ -4,7 +4,7 @@
     - name: Full Name
       value: Eman Maali
     - name: Languages
-      value: Arabic, English, Spanish (beginner)
+      value: Arabic, English, French (beginner), Spanish (beginner)
 
 - title: Education
   type: time_table
@@ -22,6 +22,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: Department of Computing, Imperial College London
+      year: 2025 -
     - title: Graduate Teaching Assistant
       institution: Department of Computing, Imperial College London
       year: 2022 -
@@ -29,13 +32,13 @@
       institution: Electrical and Computer Engineering Department, Birzeit University, Palestine
       year: 2017-2019
 
-    - title: Testing & Quality Assurance Engineer
-      institution: Jawwal-Palestine Cellular Communications, Ramallah, Palestine
-      year: 2017
-
-- title: Honors and Awards
+- title: Awards and Fellowships
   type: time_table
   contents:
+      - year: 2026
+      items:
+        - Associate Fellow (AFHEA)
+        - Advance HE UK
     - year: 2023
       items:
         - Imperial Global Fellows Fund International Placements for PhD students.
@@ -62,11 +65,12 @@
 - title: Research Interests
   type: nested_list
   contents:
+    - title: Adversarial Evaluation
+    - title: Agentic AI
+    - title: Robustness of ML Systems.
     - title: IoT Security.
-    - title: Network Traffic Analysis.
-    - title: Applied Machine Learning.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Karate, food.
+    - <u>Hobbies:</u> Reading, Karate, foodie.
