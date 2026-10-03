@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "My research studies how machine learning systems fail when deployed in adversarial or real-world conditions, and how to evaluate them so those failures are predicted before deployment.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Publications in reverse chronological order.",
