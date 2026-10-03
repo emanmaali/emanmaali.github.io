@@ -5,19 +5,8 @@ permalink: /research/
 description: My research studies how machine learning systems fail when deployed in adversarial or real-world conditions, and how to evaluate them so those failures are predicted before deployment.
 nav: true
 nav_order: 1
-# DRAFT: this page is NOT built or shown on the website while `published: false`.
-# To make it live, delete the line below (or set it to true), commit and push.
-published: false
+# DRAFT
 ---
-
-<!--
-  Suggested structure: one section per research theme.
-  Each theme answers three questions in 2-4 sentences:
-    1. What is the problem?
-    2. What is my approach / contribution?
-    3. Where can people read more (papers, code, talks)?
-  Lines marked TODO need your input before publishing.
--->
 
 <hr style="border: 1px solid grey; margin-bottom: 20px;">
 
@@ -32,24 +21,6 @@ published: false
     <li><strong>Code:</strong> <a href="https://github.com/emanmaali/MASSaftey">github.com/emanmaali/MASSaftey</a></li>
     <!-- TODO: add 1-2 sentences on the main finding once the paper is public. -->
   </ul>
-</section>
-
-<section>
-  <h3>LLM Fingerprinting</h3>
-  <p><em>Current work · Computational Privacy Group, Imperial College London (2025–present)</em></p>
-  <p>
-    <!-- TODO: describe the problem (e.g. identifying which model is behind an API or a deployed system) and your approach. -->
-    TODO: 2-4 sentences on the problem and your approach.
-  </p>
-</section>
-
-<section>
-  <h3>Privacy Attacks against ML Models and Data Releases</h3>
-  <p><em>Current work · Computational Privacy Group, Imperial College London (2025–present)</em></p>
-  <p>
-    <!-- TODO: which attacks (membership inference, reconstruction, re-identification, ...) and which systems or data releases. -->
-    TODO: 2-4 sentences on the problem and your approach.
-  </p>
 </section>
 
 <section>
