@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-excited-to-share-that-our-paper-evaluating-iot-device-identification-machine-learning-models-for-network-deployment-was-accepted-at-ndss-2025",
           title: 'I am excited to share that our paper ‘Evaluating IoT Device Identification Machine...',
           description: "",
-          section: "News",},{id: "news-i-am-excited-to-share-that-i-passed-my-phd-viva-with-minor-corrections",
+          section: "News",},{id: "news-i-am-excited-to-share-that-i-passed-my-phd-viva-with-minor-corrections-i-was-examined-by-prof-chris-hankin-imperial-college-london-and-prof-ivan-martinovic-university-of-oxford",
           title: 'I am excited to share that I passed my PhD viva with minor...',
           description: "",
           section: "News",},{id: "news-i-have-officially-been-awarded-my-phd-in-computing-from-imperial-college-london",
