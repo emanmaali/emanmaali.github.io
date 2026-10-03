@@ -9,6 +9,14 @@ nav: true
 <hr style="border: 1px solid grey; margin-bottom: 20px;">
 
 <section>
+  <h3>Associate Fellow of the Higher Education Academy (AFHEA)</h3>
+  <p><strong>Advance HE</strong>, UK (2026)</p>
+  <ul>
+    <li>Professional recognition of my teaching and learning support practice in higher education.</li>
+  </ul>
+</section>
+
+<section>
   <h3>Graduate Teaching Assistant, Department of Computing</h3>
   <p><strong>Imperial College London</strong>, London, UK (Sep 2022 – Present)</p>
   <ul>

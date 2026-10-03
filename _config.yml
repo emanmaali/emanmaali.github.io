@@ -8,17 +8,16 @@ middle_name:
 last_name: Maali
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Eman Maali is a Research Fellow in the Computational Privacy Group at Imperial College London, working on the robustness, privacy, and security of machine learning and multi-agent AI systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:
+keywords: Eman Maali, machine learning robustness, privacy, adversarial machine learning, multi-agent AI, LLM security, IoT security, Imperial College London
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
 url: https://emanmaali.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -62,13 +61,13 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://emanmaali.github.io/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 github_username: emanmaali # your GitHub user name
 twitter_username: maali_eman # your Twitter handle
-scholar_userid: NMdjJ_wAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: 7Y3NK3gAAAAJ&hl=en # your Google Scholar ID
 orcid_id: 0000-0002-8058-3335 # your ORCID ID
 
 # -----------------------------------------------------------------------------

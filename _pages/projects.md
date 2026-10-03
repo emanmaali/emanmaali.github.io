@@ -4,18 +4,17 @@ title: Education
 description: Throughout my education, I have gained extensive knowledge and hands-on experience in security, IoT, and applied machine learning. Below is a summary of my academic background and key achievements.
 permalink: /education/
 nav: true
-display_categories: [work, fun]
-horizontal: false
 ---
 
 <hr style="border: 1px solid grey; margin-bottom: 20px;">
 
 <section>
   <h3>PhD in Computing</h3>
-  <p><strong>Imperial College London</strong>, London, UK (2020–2024)</p>
+  <p><strong>Imperial College London</strong>, London, UK (2020–2025)</p>
   <ul>
-    <li><strong>Thesis:</strong> Anomaly detection for IoT environments.</li>
-    <li><strong>Research Focus:</strong> Anomaly detection, IoT security, and applied machine learning.</li>
+    <li><strong>Thesis:</strong> Evaluating the robustness of machine learning-based IoT device identification under real deployment conditions.</li>
+    <li><strong>Timeline:</strong> Thesis submitted in 2024; viva passed in March 2025; degree awarded in May 2025.</li>
+    <li><strong>Research Focus:</strong> IoT security, network traffic analysis, and robustness of applied machine learning.</li>
     <li><strong>Key Achievements:</strong> Published in NDSS and SenSys.</li>
   </ul>
 </section>

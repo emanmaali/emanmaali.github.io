@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Eman Maali",
-    "label": "Researcher",
+    "label": "Research Fellow",
     "image": "",
     "email": "e.maali19@imperial.ac.uk",
     "phone": "",
@@ -23,6 +23,14 @@
     ]
   },
   "work": [
+    {
+      "name": "Imperial College London, Department of Computing (Computational Privacy Group)",
+      "position": "Research Fellow",
+      "url": "https://cpg.doc.ic.ac.uk",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Research on the robustness of machine learning systems, including privacy attacks against ML models and data releases, LLM fingerprinting, and adversarial robustness of multi-agent AI pipelines."
+    },
     {
       "name": "Imperial College London, Department of Computing",
       "position": "Graduate Teaching Assistant",
@@ -49,7 +57,9 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     }
   ],
   "education": [
@@ -60,13 +70,13 @@
       "area": "Computing",
       "studyType": "PhD",
       "startDate": "2020-01-06",
-      "endDate": "2025-01-06"
+      "endDate": "2025-05-01"
     },
     {
-      "institution": "Universty of Birmingham",
+      "institution": "University of Birmingham",
       "location": "Birmingham, UK",
       "url": "https://www.birmingham.ac.uk",
-      "area": "Electrical Engineering",
+      "area": "Electromagnetic Sensor Networks",
       "studyType": "MSc",
       "startDate": "2016-09-01",
       "endDate": "2017-09-10"
@@ -75,33 +85,40 @@
       "institution": "Birzeit University",
       "location": "Birzeit, Palestine",
       "url": "https://www.birzeit.edu/en",
-      "area": "Computer System Engineering",
-      "studyType": "BA",
+      "area": "Computer Systems Engineering",
+      "studyType": "BSc",
       "startDate": "2008-09-01",
       "endDate": "2013-06-13"
     }
   ],
   "awards": [
     {
+      "title": "Associate Fellow of the Higher Education Academy (AFHEA)",
+      "date": "2026",
+      "awarder": "Advance HE, UK",
+      "url": "https://www.advance-he.ac.uk",
+      "summary": "Professional recognition of teaching and learning support practice in higher education."
+    },
+    {
       "title": "Imperial Global Fellows Fund",
       "date": "2023",
       "awarder": "Imperial College London",
       "url": "",
-      "summary": "Research placement at Cornell Tech, grant Amount £2,469.74, covering living, and research expenses."
+      "summary": "Research placement at Cornell Tech, grant amount £2,469.74, covering living and research expenses."
     },
     {
       "title": "Faculty for the Future PhD Fellowship",
       "date": "2019",
       "awarder": "Schlumberger Foundation",
       "url": "",
-      "summary": "PhD degree at Imperial College London, grant Amount £250K, covering tution fees, living, and research expenses.."
+      "summary": "PhD degree at Imperial College London, grant amount $250K, covering tuition fees, living, and research expenses."
     },
     {
       "title": "Hani Qaddumi Scholarship Foundation (HQSF) for Master's Studies",
-      "date": "2017",
+      "date": "2016–2017",
       "awarder": "Hani Qaddumi Foundation",
       "url": "",
-      "summary": "Master degree at Univertiy of Birmingham, grant Amount £30K, covering tution fees, living, and research expenses."
+      "summary": "Master's degree at the University of Birmingham, grant amount £30K, covering tuition fees, living, and research expenses."
     }
   ],
   "certificates": [],
@@ -114,9 +131,9 @@
       "keywords": [
         "Programming Languages: Python (Pandas, NumPy, Scikit‑learn, etc), Java, C.",
         "Embedded Systems Programming: Arduino, Raspberry Pi, and ESP32/ESP8266.",
-        "Machine Learning Framework: AutoML, TensorFlow, Keras, PyTorch",
+        "Machine Learning Frameworks: AutoML, TensorFlow, Keras, PyTorch.",
         "Miscellaneous: Linux, Shell (Bash), LaTeX (Overleaf), Microsoft Office, Git, Docker.",
-        "Network Traffic Analyser: Wireshark, tcpdump, tshark, Cisco joy, YAF (Yet Another Flowmeter).",
+        "Network Traffic Analysers: Wireshark, tcpdump, tshark, Cisco JOY, YAF (Yet Another Flowmeter).",
         "Penetration Testing and Ethical Hacking: Kali Linux, Nmap."
       ]
     }
@@ -133,6 +150,11 @@
       "icon": ""
     },
     {
+      "language": "French",
+      "fluency": "Beginner",
+      "icon": ""
+    },
+    {
       "language": "Spanish",
       "fluency": "Beginner",
       "icon": ""
@@ -140,9 +162,14 @@
   ],
   "interests": [
     {
-      "name": "IoT Security",
+      "name": "Research Interests",
       "icon": "",
-      "keywords": ["Network Traffic Analayis", "Applied Machine Learning"]
+      "keywords": [
+        "Adversarial Evaluation",
+        "Agentic AI",
+        "Robustness of ML Systems",
+        "IoT Security"
+      ]
     }
   ],
   "references": [],
